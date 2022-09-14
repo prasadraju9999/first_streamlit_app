@@ -5,5 +5,5 @@ streamlit.header("Breakfast Menu")
 streamlit.text("idly")
 streamlit.text("dosa")
 streamlit.text("vada")
-streamlit.text('\N{person taking bath}')
+streamlit.header('\N{flexed biceps} Breakfast of Champion Coders \N{flexed biceps}')
 
